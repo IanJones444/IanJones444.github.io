@@ -1,5 +1,14 @@
 body{
     background-color: #51A2FF;
-    background-image: url(RAHH.png);
+    //background-image: url(RAHH.png);
+    //background-repeat: no-repeat;
+}
+
+a:link{
+    color: yellow;
+}
+
+a:visited{
+    color: green;
 }
 
