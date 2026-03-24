@@ -1,34 +1,10 @@
 body{
-    background-color: #51A2FF;
-    //background-image: url(RAHH.jpg);
-    //background-repeat: no-repeat;
+    background-color: White;
 }
 
-a:link{
-    color: yellow;
-}
 
-a:visited{
-    color: green;
-}
 
 h3{
-    color: red;
     font-size: 24px;
+    font: Arial;
 }
-
-#snowing:{
-    position: absolute; top:300px; left:500px;
-    padding: 30px;
-    border-style: dotted;
-    border-width: 3px;
-    border-color: red;
-    background-color: light-grey;
-}
-
-#page{
-    height: 700px;
-    width: 12000px;
-    background-color: pink;
-}
-    
