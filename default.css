@@ -4,6 +4,11 @@ body{
     font-family: sans-serif;
 }
 
+body{
+    text-align: center;
+    background-color: White;
+    font-family: times-new-roman;
+}
 
 
 h3{
