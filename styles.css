@@ -7,9 +7,9 @@ header {
 }
   
 article {
-  float: left;
+  float: center;
   padding: 20px;
-  width: 70%;
-  background-color: #f1f1f1;
-  height: 300px;
+  width: 100%;
+  background-color: #FFD700;
+  height: 520px;
 }
