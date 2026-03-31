@@ -14,5 +14,7 @@ article {
   height: 500px;
 }
 
-
-nav
+body{
+    text-align: center;
+    font-family: HWT-Geometric;
+}
