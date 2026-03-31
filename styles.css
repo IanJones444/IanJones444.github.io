@@ -9,12 +9,12 @@ header {
 article {
   float: center;
   padding: 20px;
-  width: 98%;
+  width: 97%;
   background-color: #FFEEBC;
-  height: 500px;
+  height: 450px;
 }
 
 body{
     text-align: center;
-    font-family: HWT-Geometric;
+    font-family: 'Courier New', monospace;
 }
