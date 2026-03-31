@@ -1,6 +1,6 @@
 header {
   background-color: #666;
-  padding: 30px;
+  padding: 20px;
   text-align: center;
   font-size: 35px;
   color: white;
@@ -9,7 +9,7 @@ header {
 article {
   float: center;
   padding: 20px;
-  width: 100%;
-  background-color: #FFD700;
-  height: 520px;
+  width: 95%;
+  background-color: #FFEEBC;
+  height: 500px;
 }
